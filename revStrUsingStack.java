@@ -29,6 +29,7 @@ class revStrUsingStack {
 		}
 		// return string object
 		//missing
+		return new String(reverseString);
 	}
 
 	// Driver code
